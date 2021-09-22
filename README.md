@@ -12,7 +12,7 @@
     1.  Display a list of movies
     2.  Movie thumbnails should be retrieved from the API
     3.  Pull to refresh from the movies list page
-	  4.  List of movies can be paginated
+    4.  List of movies can be paginated
     5.  Upon selecting a cell, present a movie detail screen
 
 ##### 4. Other
